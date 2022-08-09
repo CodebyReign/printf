@@ -14,7 +14,11 @@
 <<<<<<< HEAD
 
 =======
+<<<<<<< HEAD
+
+=======
 >>>>>>> ca84b663de4619c6a22ef58334e74f39494a4420
+>>>>>>> 4cce60951393a88f639bce10481ed4a00c4056ed
 /**
  * struct format - match the conversion specifiers for printf
  * @id: type char pointer of the specifier i.e (l, h) for (d, i, u, o, x, X)
@@ -58,5 +62,9 @@ int _printf(const char *format, ...);
 <<<<<<< HEAD
 
 =======
+<<<<<<< HEAD
+
+=======
 >>>>>>> ca84b663de4619c6a22ef58334e74f39494a4420
+>>>>>>> 4cce60951393a88f639bce10481ed4a00c4056ed
 #endif
