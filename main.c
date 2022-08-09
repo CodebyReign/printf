@@ -1,18 +1,33 @@
+<<<<<<< HEAD
 #include <limits.h>
 #include <stdio.h>
+=======
+#include <stdlib.h>
+#include <limits.h>
+>>>>>>> 25cc176d3825c60a4303285b6fc4bfaac86bcfa6
 #include "main.h"
 
 /**
  * main - Entry point
+<<<<<<< HEAD
  * Return: Always 0
  */
 
+=======
+ *
+ * Return: Always 0
+ */
+>>>>>>> 25cc176d3825c60a4303285b6fc4bfaac86bcfa6
 int main(void)
 {
 int len;
 int len2;
 unsigned int ui;
 void *addr;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 25cc176d3825c60a4303285b6fc4bfaac86bcfa6
 len = _printf("Let's try to printf a simple sentence.\n");
 len2 = printf("Let's try to printf a simple sentence.\n");
 ui = (unsigned int)INT_MAX + 1024;
